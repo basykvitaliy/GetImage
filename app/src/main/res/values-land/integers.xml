@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="add_column_count_by_orientation">1</integer>
+
+</resources>
